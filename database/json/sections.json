@@ -1,0 +1,51 @@
+[
+    {
+        "id": 1,
+        "sections": "A",
+        "organisation_type": "school",
+        "created_at": null,
+        "updated_at": null
+    },
+    {
+        "id": 2,
+        "sections": "B",
+        "organisation_type": "school",
+        "created_at": null,
+        "updated_at": null
+    },
+    {
+        "id": 3,
+        "sections": "C",
+        "organisation_type": "school",
+        "created_at": null,
+        "updated_at": null
+    },
+    {
+        "id": 4,
+        "sections": "D",
+        "organisation_type": "school",
+        "created_at": null,
+        "updated_at": null
+    },
+    {
+        "id": 5,
+        "sections": "1st",
+        "organisation_type": "college",
+        "created_at": null,
+        "updated_at": null
+    },
+    {
+        "id": 6,
+        "sections": "2st",
+        "organisation_type": "college",
+        "created_at": null,
+        "updated_at": null
+    },
+    {
+        "id": 7,
+        "sections": "3st",
+        "organisation_type": "college",
+        "created_at": null,
+        "updated_at": null
+    }
+]

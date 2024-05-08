@@ -1,0 +1,268 @@
+[
+    {
+        "id": 1,
+        "standard": "LKG",
+        "organisation_type": "school",
+        "created_at": null,
+        "updated_at": null
+    },
+    {
+        "id": 2,
+        "standard": "UKG",
+        "organisation_type": "school",
+        "created_at": null,
+        "updated_at": null
+    },
+    {
+        "id": 3,
+        "standard": "1",
+        "organisation_type": "school",
+        "created_at": null,
+        "updated_at": null
+    },
+    {
+        "id": 4,
+        "standard": "2",
+        "organisation_type": "school",
+        "created_at": null,
+        "updated_at": null
+    },
+    {
+        "id": 5,
+        "standard": "3",
+        "organisation_type": "school",
+        "created_at": null,
+        "updated_at": null
+    },
+    {
+        "id": 6,
+        "standard": "4",
+        "organisation_type": "school",
+        "created_at": null,
+        "updated_at": null
+    },
+    {
+        "id": 7,
+        "standard": "5",
+        "organisation_type": "school",
+        "created_at": null,
+        "updated_at": null
+    },
+    {
+        "id": 8,
+        "standard": "6",
+        "organisation_type": "school",
+        "created_at": null,
+        "updated_at": null
+    },
+    {
+        "id": 9,
+        "standard": "7",
+        "organisation_type": "school",
+        "created_at": null,
+        "updated_at": null
+    },
+    {
+        "id": 10,
+        "standard": "8",
+        "organisation_type": "school",
+        "created_at": null,
+        "updated_at": null
+    },
+    {
+        "id": 11,
+        "standard": "9",
+        "organisation_type": "school",
+        "created_at": null,
+        "updated_at": null
+    },
+    {
+        "id": 12,
+        "standard": "10",
+        "organisation_type": "school",
+        "created_at": null,
+        "updated_at": null
+    },
+    {
+        "id": 13,
+        "standard": "11",
+        "organisation_type": "school",
+        "created_at": null,
+        "updated_at": null
+    },
+    {
+        "id": 14,
+        "standard": "12",
+        "organisation_type": "school",
+        "created_at": null,
+        "updated_at": null
+    },
+    {
+        "id": 15,
+        "standard": "BA English",
+        "organisation_type": "college",
+        "created_at": null,
+        "updated_at": null
+    },
+    {
+        "id": 16,
+        "standard": "BA History",
+        "organisation_type": "college",
+        "created_at": null,
+        "updated_at": null
+    },
+    {
+        "id": 17,
+        "standard": "BA in Public Administration",
+        "organisation_type": "college",
+        "created_at": null,
+        "updated_at": null
+    },
+    {
+        "id": 18,
+        "standard": "BA in Political Science",
+        "organisation_type": "college",
+        "created_at": null,
+        "updated_at": null
+    },
+    {
+        "id": 19,
+        "standard": "BA in Clinical Psychology",
+        "organisation_type": "college",
+        "created_at": null,
+        "updated_at": null
+    },
+    {
+        "id": 20,
+        "standard": "BA Economics",
+        "organisation_type": "college",
+        "created_at": null,
+        "updated_at": null
+    },
+    {
+        "id": 21,
+        "standard": "BA in Geography",
+        "organisation_type": "college",
+        "created_at": null,
+        "updated_at": null
+    },
+    {
+        "id": 22,
+        "standard": "BA in Sociology",
+        "organisation_type": "college",
+        "created_at": null,
+        "updated_at": null
+    },
+    {
+        "id": 23,
+        "standard": "BA in Social Work",
+        "organisation_type": "college",
+        "created_at": null,
+        "updated_at": null
+    },
+    {
+        "id": 24,
+        "standard": "BA in Philosophy",
+        "organisation_type": "college",
+        "created_at": null,
+        "updated_at": null
+    },
+    {
+        "id": 25,
+        "standard": "BSc in Information Technology (IT)",
+        "organisation_type": "college",
+        "created_at": null,
+        "updated_at": null
+    },
+    {
+        "id": 26,
+        "standard": "BSc Fashion Designing",
+        "organisation_type": "college",
+        "created_at": null,
+        "updated_at": null
+    },
+    {
+        "id": 27,
+        "standard": "BSc Agriculture",
+        "organisation_type": "college",
+        "created_at": null,
+        "updated_at": null
+    },
+    {
+        "id": 28,
+        "standard": "BSc Anesthesia",
+        "organisation_type": "college",
+        "created_at": null,
+        "updated_at": null
+    },
+    {
+        "id": 29,
+        "standard": "BSc Cardiology",
+        "organisation_type": "college",
+        "created_at": null,
+        "updated_at": null
+    },
+    {
+        "id": 30,
+        "standard": "BSc in Product Design",
+        "organisation_type": "college",
+        "created_at": null,
+        "updated_at": null
+    },
+    {
+        "id": 31,
+        "standard": "BSc Biology",
+        "organisation_type": "college",
+        "created_at": null,
+        "updated_at": null
+    },
+    {
+        "id": 32,
+        "standard": "BSc Economics",
+        "organisation_type": "college",
+        "created_at": null,
+        "updated_at": null
+    },
+    {
+        "id": 33,
+        "standard": "BSc Geology",
+        "organisation_type": "college",
+        "created_at": null,
+        "updated_at": null
+    },
+    {
+        "id": 34,
+        "standard": "BSc Statistics",
+        "organisation_type": "college",
+        "created_at": null,
+        "updated_at": null
+    },
+    {
+        "id": 35,
+        "standard": "BSc Mathematics",
+        "organisation_type": "college",
+        "created_at": null,
+        "updated_at": null
+    },
+    {
+        "id": 36,
+        "standard": "BSc Biotechnology",
+        "organisation_type": "college",
+        "created_at": null,
+        "updated_at": null
+    },
+    {
+        "id": 37,
+        "standard": "BSc Geography",
+        "organisation_type": "college",
+        "created_at": null,
+        "updated_at": null
+    },
+    {
+        "id": 38,
+        "standard": "Bsc Sports",
+        "organisation_type": "college",
+        "created_at": null,
+        "updated_at": null
+    }
+]

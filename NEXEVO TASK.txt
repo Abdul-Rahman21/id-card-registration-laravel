@@ -1,0 +1,14 @@
+NEXEVO TASK
+
+ID Card details collecting..
+
+By default Admin login will Open
+
+Username: admin
+passaword: admin
+
+Inside admin two create module
+
+organisation and student module
+
+before that upload sql file which in database folder having nexevo-task.sql name
